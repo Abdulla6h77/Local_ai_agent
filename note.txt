@@ -1,0 +1,7 @@
+push all of the code to github with a proper read me file 
+-Future improvements:
+  * Create a GUI interface using one of:
+    - Tkinter (Python native GUI library)
+    - Streamlit (Web-based dashboard)
+    - Flask (Web application framework)
+  * Implement GUI after initial code push to GitHub
